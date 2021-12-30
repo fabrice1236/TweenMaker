@@ -12,7 +12,7 @@ To use this plugin, go to the plugins tab at the top of your screen, and click o
 3. Time : Just put the time the tween should take in seconds.
 4. Repeats count : This is the number of times the tween should repeat itself, you can set it to 0 for none and math.huge for infinity.
 5. Reverses : This property determines if the tween will reverses after it's done, it's not the same as repeats count ! This one will make the tween reverses and come back at the original position after its done.
-6. Starting Point : This is a little more advanced, to learn more about this option, [click here].
+6. Starting Point : This is a little more advanced, to learn more about this option, [click here](https://github.com/fabrice1236/TweenMaker/blob/main/StartOptions.md).
 7. EasingDirection (Create is next) : This determines the EasingDirection, to learn more about EasingDirection, [click here](https://developer.roblox.com/en-us/api-reference/enum/EasingDirection)
 8. Create : This is not a property, but a button to, yes, create the script for the tween for every part you were selecting when clicking the button.
 
